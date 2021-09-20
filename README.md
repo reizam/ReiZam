@@ -1,6 +1,6 @@
 # K. MAZIER (ReiZam)
 
-![Student 42](https://img.shields.io/badge/Student-42-lightgrey?style=for-the-badge)
+[<img src="https://img.shields.io/badge/Student-42-lightgrey?style=for-the-badge">](https://42.fr)
 [<img src="https://img.shields.io/badge/%20MALT-PROFILE-red?style=for-the-badge">](https://www.malt.fr/profile/karlmazier)
 
 #### Languages, techs 
