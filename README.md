@@ -10,5 +10,5 @@ Student at 42 Paris
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
 ![React/React Native](https://img.shields.io/badge/-React-blue)
 ![Vue.JS](https://img.shields.io/badge/-React-yellowgreen)
-![ElectronJS](ttps://img.shields.io/badge/-Electron-informational)
-![MongoDB](https://img.shields.io/badge/-Electron-brightgreen)
+![ElectronJS](https://img.shields.io/badge/-Electron-informational)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
