@@ -1,6 +1,6 @@
 ### K. MAZIER (ReiZam)
 
-*Student at 42 Paris*
+Student at 42 Paris
 
 **Languages/Techs**
 
