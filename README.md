@@ -1,6 +1,7 @@
 # K. MAZIER (ReiZam)
 
 ![Student 42](https://img.shields.io/badge/Student-42-lightgrey?style=for-the-badge)
+[<img src="https://img.shields.io/badge/%20MALT-PROFILE-red?style=for-the-badge">](https://www.malt.fr/profile/karlmazier)
 
 #### Languages, techs 
 
@@ -20,5 +21,3 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-red?style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square)
 ![Spring](https://img.shields.io/badge/-Spring-red?style=flat-square)
-
-[<img src="https://img.shields.io/badge/%20MALT-PROFILE-red?style=for-the-badge">](https://www.malt.fr/profile/karlmazier)
