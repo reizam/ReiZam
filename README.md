@@ -3,6 +3,10 @@
 [<img src="https://img.shields.io/badge/Student-42-lightgrey?style=for-the-badge">](https://42.fr)
 [<img src="https://img.shields.io/badge/%20PROFILE-MALT-critical?style=for-the-badge">](https://www.malt.fr/profile/karlmazier)
 
+#### École 42 (Paris) student
+
+[![kmazier's 42 stats](https://badge42.herokuapp.com/api/stats/kmazier)]
+
 #### Languages, techs 
 
 ![JS](https://img.shields.io/badge/-JavaScript-blue?style=flat-square)
