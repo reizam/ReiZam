@@ -5,7 +5,7 @@
 
 #### École 42 (Paris) student
 
-<img src="https://badge42.herokuapp.com/api/stats/kmazier" data-canonical-src="https://badge42.herokuapp.com/api/stats/kmazier" width="396" height="156" />
+<img src="https://badge42.herokuapp.com/api/stats/kmazier" data-canonical-src="https://badge42.herokuapp.com/api/stats/kmazier" width="396" height="156"/>
 
 #### Languages, techs 
 
