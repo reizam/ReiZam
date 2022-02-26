@@ -14,4 +14,4 @@
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square)
 ![ElectronJS](https://img.shields.io/badge/-Electron-blue?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-MongoDB-blue?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square)
